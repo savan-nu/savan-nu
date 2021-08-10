@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @savan-nu
+- 👀 I’m currently pursuing computer science and engineering in Nirma University.
